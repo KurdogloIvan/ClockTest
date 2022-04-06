@@ -1,0 +1,19 @@
+{
+  "time": {
+    "abbreviation": "MSK",
+    "client_ip": "185.228.112.75",
+    "datetime": "2022-03-28T16:06:33.010175+03:00",
+    "day_of_week": 1,
+    "day_of_year": 87,
+    "dst": false,
+    "dst_from": null,
+    "dst_offset": 0,
+    "dst_until": null,
+    "raw_offset": 10800,
+    "timezone": "Europe/Moscow",
+    "unixtime": 1648472793,
+    "utc_datetime": "2022-03-28T13:06:33.010175+00:00",
+    "utc_offset": "+03:00",
+    "week_number": 13
+  }
+}
